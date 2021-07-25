@@ -1,1 +1,1 @@
-FROM kubernetesui/dashboard:v2.0.0-beta4
+FROM ghcr.io/kyverno/kyvernopre:v1.4.1
